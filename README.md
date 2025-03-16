@@ -4,7 +4,7 @@ This is a Django project that implements basic CRUD (Create, Read, Update, Delet
 
 This project is intended to be the base for creating any feed related project where users can post their content . This project is just a base to create a bigger / scaleable application
 
-##screenshot
+## screenshot
 ![image](https://github.com/user-attachments/assets/0f7b5b7f-8d7e-4466-8914-7eff59ac09ba)
 ![image](https://github.com/user-attachments/assets/5a1e5f32-8565-4125-b8b4-309bc3f79e4f)
 ![image](https://github.com/user-attachments/assets/fe62acac-2706-489d-b2fa-2c385d867b1d)
